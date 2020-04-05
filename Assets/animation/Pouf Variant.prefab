@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &2307353520288972901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 482102792337193952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc1041a8f0ae1094bb8d220575d9e49f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bed1: {fileID: 0}
+  bed2: {fileID: 0}
+  cupboard1: {fileID: 0}
+  cupboard2: {fileID: 0}
+  table1: {fileID: 0}
+  table2: {fileID: 0}
+--- !u!1001 &2956352076551079542
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1662042919, guid: 8f127fe43b8899b4b8461801bbe79032, type: 3}
+      propertyPath: m_Mass
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3438453663602556310, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_Name
+      value: Pouf
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -330.8373
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 76.38448
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -46.65462
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3440018855281206494, guid: 8f127fe43b8899b4b8461801bbe79032,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7234042981856940627, guid: 8f127fe43b8899b4b8461801bbe79032, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8f127fe43b8899b4b8461801bbe79032, type: 3}
+--- !u!1 &482102792337193952 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3438453663602556310, guid: 8f127fe43b8899b4b8461801bbe79032,
+    type: 3}
+  m_PrefabInstance: {fileID: 2956352076551079542}
+  m_PrefabAsset: {fileID: 0}

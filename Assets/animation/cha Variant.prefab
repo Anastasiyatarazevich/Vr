@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!65 &1046275966191100333
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2318858826803126486}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1.094715}
+  m_Center: {x: 1.2249532e-15, y: -3.6819468e-15, z: 0.5565481}
+--- !u!114 &4011543270294516451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2318858826803126486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc1041a8f0ae1094bb8d220575d9e49f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bed1: {fileID: 0}
+  bed2: {fileID: 0}
+  cupboard1: {fileID: 0}
+  cupboard2: {fileID: 0}
+  table1: {fileID: 0}
+  table2: {fileID: 0}
+  bath: {fileID: 0}
+  toilet: {fileID: 0}
+  toilet1: {fileID: 0}
+  sink: {fileID: 0}
+  dryer: {fileID: 0}
+  sofa1: {fileID: 0}
+  sofa2: {fileID: 0}
+  tv: {fileID: 0}
+  laptop: {fileID: 0}
+  armchair1: {fileID: 0}
+  armchair2: {fileID: 0}
+  fridge: {fileID: 0}
+  table3: {fileID: 0}
+  table4: {fileID: 0}
+  chair1: {fileID: 0}
+  chair2: {fileID: 0}
+  bed21: {fileID: 0}
+  bed22: {fileID: 0}
+  cupboard21: {fileID: 0}
+  cupboard22: {fileID: 0}
+  table21: {fileID: 0}
+  table22: {fileID: 0}
+  bath2: {fileID: 0}
+  toilet2: {fileID: 0}
+  toilet21: {fileID: 0}
+  sink2: {fileID: 0}
+  dryer2: {fileID: 0}
+  sofa21: {fileID: 0}
+  sofa22: {fileID: 0}
+  tv2: {fileID: 0}
+  laptop2: {fileID: 0}
+  armchair21: {fileID: 0}
+  armchair22: {fileID: 0}
+  fridge2: {fileID: 0}
+  table23: {fileID: 0}
+  table24: {fileID: 0}
+  chair21: {fileID: 0}
+  chair22: {fileID: 0}
+  bed31: {fileID: 0}
+  bed32: {fileID: 0}
+  cupboard31: {fileID: 0}
+  cupboard32: {fileID: 0}
+  table31: {fileID: 0}
+  table32: {fileID: 0}
+  bath3: {fileID: 0}
+  toilet3: {fileID: 0}
+  toilet31: {fileID: 0}
+  sink3: {fileID: 0}
+  dryer3: {fileID: 0}
+  sofa31: {fileID: 0}
+  sofa3: {fileID: 0}
+  tv3: {fileID: 0}
+  laptop3: {fileID: 0}
+  armchair31: {fileID: 0}
+  armchair32: {fileID: 0}
+  fridge3: {fileID: 0}
+  table33: {fileID: 0}
+  table34: {fileID: 0}
+  chair31: {fileID: 0}
+  chair32: {fileID: 0}
+--- !u!1001 &952426576360576955
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 214962308, guid: ea8099f6f033ced498116c417ae24a51, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102061377963, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1a44110be72ce9e4bbf38a866d859da0, type: 2}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -334.30527
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 75.85473
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -41.538853
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063278925, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3249786102063314797, guid: ea8099f6f033ced498116c417ae24a51,
+        type: 3}
+      propertyPath: m_Name
+      value: cha Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 214962312, guid: ea8099f6f033ced498116c417ae24a51, type: 3}
+    - {fileID: 764346831948177022, guid: ea8099f6f033ced498116c417ae24a51, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: ea8099f6f033ced498116c417ae24a51, type: 3}
+--- !u!1 &2318858826803126486 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3249786102063314797, guid: ea8099f6f033ced498116c417ae24a51,
+    type: 3}
+  m_PrefabInstance: {fileID: 952426576360576955}
+  m_PrefabAsset: {fileID: 0}
